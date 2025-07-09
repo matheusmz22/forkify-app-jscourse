@@ -1,6 +1,6 @@
 # Forkify - Recipe Search Application
 
-This project was developed during **The Complete JavaScript Course 2025 by Jonas Schmedtmann.
+This project was developed during **The Complete JavaScript Course 2025** by Jonas Schmedtmann.
 
 ## About the Project
 
